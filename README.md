@@ -1,4 +1,5 @@
 # ✸ DN-4.0-JAVA – Assignment Repository
+[⚲ Jump to Quick Access ⤵](#-quick-access-to-assignments)
 
 This repository contains assignment solutions organized by **Constructs (C)** and **Modules (M)**.
 
