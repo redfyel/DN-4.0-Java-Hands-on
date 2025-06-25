@@ -1,4 +1,5 @@
 # ✸ DN-4.0-JAVA – Assignment Repository
+
 [⚲ Jump to Quick Access ⤵](#-quick-access-to-assignments)
 
 This repository contains assignment solutions organized by **Constructs (C)** and **Modules (M)**.
@@ -38,10 +39,11 @@ C[x]-[Construct Name]/
 
 ---
 
-
-
 ### ꩜ Week 2 Assignments
 
 **⤷ C2 – Programming Languages → M3 – PL SQL Programming**
 
+- [📄 Week2_PL_SQLProgramming_HandsOn.pdf](C2-Programming%20Languages\M3-PL%20SQL%20programming\Week2_PL_SQLProgramming_HandsOn.pdf)
+
 **⤷ C2 – Programming Languages → M4 – JUnit, Mockito and SL4J**
+- 
