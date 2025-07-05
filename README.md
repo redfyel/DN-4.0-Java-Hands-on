@@ -46,4 +46,17 @@ C[x]-[Construct Name]/
 - [📄 Week2_PL_SQLProgramming_HandsOn.pdf](C2-Programming%20Languages\M3-PL%20SQL%20programming\Week2_PL_SQLProgramming_HandsOn.pdf)
 
 **⤷ C2 – Programming Languages → M4 – JUnit, Mockito and SL4J**
+
 - - [📄 Week2_TestDrivenDevelopmentAndLoggingFramework_HandsOn.pdf](C2-Programming%20Languages\M4-JUnit,%20Mockito%20and%20SL4J\Week2_TestDrivenDevelopmentAndLoggingFramework_HandsOn.pdf)
+
+---
+
+### ꩜ Week 3 Assignments
+
+**⤷ C3 – Products and Frameworks → M5 – Spring Core and Maven**
+
+- [📄 Week3_SpringCoreAndMaven_HandsOn.pdf](C3-Products%20And%20Frameworks/M5-Spring%20Core%20And%20Maven/Week3_SpringCoreAndMaven_HandsOn.pdf)
+
+**⤷ C3 – Products and Frameworks → M6 – Spring Data JPA with Hibernate**
+
+- - [📄 Week3_SpringDataJPAWithHibernateAndSpringBoot_HandsOn.pdf](C3-Products%20And%20Frameworks/M6-Spring%20Data%20JPA%20With%20Hibernate/Week3_SpringDataJPAWithHibernateAndSpringBoot_HandsOn.pdf)
