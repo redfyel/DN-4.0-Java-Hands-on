@@ -47,7 +47,7 @@ C[x]-[Construct Name]/
 
 **⤷ C2 – Programming Languages → M4 – JUnit, Mockito and SL4J**
 
-- - [📄 Week2_TestDrivenDevelopmentAndLoggingFramework_HandsOn.pdf](C2-Programming%20Languages/M4-JUnit,%20Mockito%20and%20SL4J/Week2_TestDrivenDevelopmentAndLoggingFramework_HandsOn.pdf)
+- [📄 Week2_TestDrivenDevelopmentAndLoggingFramework_HandsOn.pdf](C2-Programming%20Languages/M4-JUnit,%20Mockito%20and%20SL4J/Week2_TestDrivenDevelopmentAndLoggingFramework_HandsOn.pdf)
 
 ---
 
@@ -55,16 +55,17 @@ C[x]-[Construct Name]/
 
 **⤷ C3 – Products and Frameworks → M5 – Spring Core and Maven**
 
-- [📄 Week3_SpringCoreAndMaven_HandsOn.pdf](C3-Products%20And%20Frameworks/M5-Spring%20Core%20And%20Maven/Week3_SpringCoreAndMaven_HandsOn.pdf)
+- [📄 Week3_SpringCoreAndMaven_HandsOn.pdf](C3-Products%20and%20Frameworks/M5-Spring%20Core%20and%20Maven/Week3_SpringCoreAndMaven_HandsOn.pdf)
 
 **⤷ C3 – Products and Frameworks → M6 – Spring Data JPA with Hibernate**
 
-- - [📄 Week3_SpringDataJPAWithHibernateAndSpringBoot_HandsOn.pdf](C3-Products%20And%20Frameworks/M6-Spring%20Data%20JPA%20With%20Hibernate/Week3_SpringDataJPAWithHibernateAndSpringBoot_HandsOn.pdf)
+- [📄 Week3_SpringDataJPAWithHibernateAndSpringBoot_HandsOn.pdf](C3-Products%20and%20Frameworks/M6-Spring%20Data%20JPA%20with%20Hibernate/Week3_SpringDataJPAWithHibernateAndSpringBoot_HandsOn.pdf)
 
+---
 
 ### ꩜ Week 4 Assignments
 
 **⤷ C3 – Products and Frameworks → M7 – Spring REST using Spring Boot**
 
-- [📄 Week4_SpringRESTusingSpringBoot3_HandsOn.pdf](C3-Products%20And%20Frameworks/M7-Spring%20REST%20using%20Spring%20Boot/Week4_SpringRESTusingSpringBoot3_HandsOn.pdf)
+- [📄 Week4_SpringRESTusingSpringBoot3_HandsOn.pdf](C3-Products%20and%20Frameworks/M7-Spring%20REST%20using%20Spring%20Boot/Week4_SpringRESTusingSpringBoot3_HandsOn.pdf)
 
