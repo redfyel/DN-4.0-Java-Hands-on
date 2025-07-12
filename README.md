@@ -60,3 +60,11 @@ C[x]-[Construct Name]/
 **⤷ C3 – Products and Frameworks → M6 – Spring Data JPA with Hibernate**
 
 - - [📄 Week3_SpringDataJPAWithHibernateAndSpringBoot_HandsOn.pdf](C3-Products%20And%20Frameworks/M6-Spring%20Data%20JPA%20With%20Hibernate/Week3_SpringDataJPAWithHibernateAndSpringBoot_HandsOn.pdf)
+
+
+### ꩜ Week 4 Assignments
+
+**⤷ C3 – Products and Frameworks → M7 – Spring REST using Spring Boot**
+
+- [📄 Week4_SpringRESTusingSpringBoot3_HandsOn.pdf](C3-Products%20And%20Frameworks/M7-Spring%20REST%20using%20Spring%20Boot/Week4_SpringRESTusingSpringBoot3_HandsOn.pdf)
+
