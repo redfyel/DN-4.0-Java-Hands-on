@@ -69,3 +69,11 @@ C[x]-[Construct Name]/
 
 - [📄 Week4_SpringRESTusingSpringBoot3_HandsOn.pdf](C3-Products%20and%20Frameworks/M7-Spring%20REST%20using%20Spring%20Boot/Week4_SpringRESTusingSpringBoot3_HandsOn.pdf)
 
+---
+
+### ꩜ Week 5 Assignments
+
+**⤷ C3 – Products and Frameworks → M8 - Microservices with Spring Boot 3 and Spring Cloud**
+
+- [📄 Week5_MicroservicesWithSpringBoot3AndSpringCloud_HandsOn.pdf](C3-Products%20and%20Frameworks/M8,9-Microservices/Week5_MicroservicesWithSpringBoot3AndSpringCloud_HandsOn.pdf)
+
