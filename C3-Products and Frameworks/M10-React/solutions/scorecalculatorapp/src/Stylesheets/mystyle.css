@@ -1,0 +1,33 @@
+.Name {
+    font-weight: 600;
+    font-size: 1.2em;
+    color : #F0F1C5;
+}
+
+.School {
+    color: #E1EEBC;
+}
+
+.Total {
+    color : #EBE8DB;
+}
+
+.formatstyle {
+    text-align: center;
+    font-size: large;
+    background-color: hsla(337, 78%, 23%, 0.599);
+    box-shadow: 0 1px 10px rgba(100, 10, 0, 0.7);
+    width: 500px;
+    border-radius: 15px;
+    padding: 14px;
+    margin: auto;
+    margin-top : 250px;
+}
+
+.Score {
+    color : #FFC6C6;
+}
+
+body {
+    background-color: #EBE8DB;
+}

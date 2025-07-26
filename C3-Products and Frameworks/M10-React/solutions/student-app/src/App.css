@@ -1,0 +1,10 @@
+.cohort-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.App h1 {
+  color : #493628;
+  text-align: center;
+  font-size: 2rem;
+}

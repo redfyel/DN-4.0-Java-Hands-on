@@ -1,0 +1,39 @@
+.posts {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 2rem;
+    padding: 1 rem;
+}
+
+.post {
+    box-shadow: 0 3px 10px 0 rgba(0,0,0,0.2);
+    border-radius: 20px;
+    padding: 1rem;
+    background-color: #DDDAD0;
+}
+
+.post-id {
+    background-color: #0A400C;
+    border: 2px dashed #fff;
+    color: white;
+    border-radius: 50%;
+    font-size: 1.5rem;
+    width: 2rem;
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.post-title {
+    font-family : Arial, Helvetica, sans-serif;
+    color: #0A400C;
+    font-weight: 700;
+    font-size : 2em;
+}
+
+.post-body{
+    color: #708A58;
+    font-family : Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size : 1.3em;
+}

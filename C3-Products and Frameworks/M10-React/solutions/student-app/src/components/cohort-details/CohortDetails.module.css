@@ -1,0 +1,36 @@
+.box {
+    width: 300px;
+    display: inline-block;
+    margin: 10px;
+    padding : 20px 20px;
+    border: 5px solid #493628;
+    border-radius: 25px;
+    background-color: #AB886D;
+    box-shadow: 0 0 10px #493628;
+}
+
+dt {
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+
+dd {
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+.ongoingHeader {
+    /* color: green;    */
+    color : #493628;
+    background: #A3DC9A;
+    text-align: center;
+    border-radius: 40px;
+}
+
+.nonOngoingHeader {
+    /* color: blue; */
+     color : #493628;
+    background: #91C8E4;
+    text-align: center;
+    border-radius: 40px;
+}

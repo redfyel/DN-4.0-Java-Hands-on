@@ -77,3 +77,12 @@ C[x]-[Construct Name]/
 
 - [📄 Week5_MicroservicesWithSpringBoot3AndSpringCloud_HandsOn.pdf](C3-Products%20and%20Frameworks/M8,9-Microservices/Week5_MicroservicesWithSpringBoot3AndSpringCloud_HandsOn.pdf)
 
+---
+
+### ꩜ Week 6 Assignments
+
+**⤷ C3 – Products and Frameworks → M10 - Single Page Application framework - React**
+
+-[📄 Week6_React_HandsOn.pdf](C3-Products%20and%20Frameworks/M10-React/Week5_React_HandsOn.pdf)
+
+---
