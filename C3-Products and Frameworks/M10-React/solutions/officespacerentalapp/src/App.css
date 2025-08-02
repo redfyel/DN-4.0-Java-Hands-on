@@ -1,0 +1,17 @@
+.cards {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.office-card {
+  background-color: #C0C9EE;
+  color : #898AC4;
+  width : 300px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+body {
+  background-color: #FFF2E0;
+}

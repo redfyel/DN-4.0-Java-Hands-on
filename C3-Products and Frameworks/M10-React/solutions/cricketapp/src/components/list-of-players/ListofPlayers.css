@@ -1,0 +1,15 @@
+.players {
+    display: flex;
+    justify-content : space-evenly;
+    margin: auto;
+    margin-top : 140px;
+}
+
+.all-players, .scored {
+    background-color: rgba(128, 128, 128, 0.43);
+    border: 1px solid white;
+    padding: 30px;
+    border-radius: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.2rem
+}

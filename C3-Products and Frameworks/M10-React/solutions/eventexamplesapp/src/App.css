@@ -1,0 +1,59 @@
+
+.butons {
+    display: flex;
+    margin-top: 120px;
+    justify-content: space-evenly;
+}
+
+.counter {
+    align-items: center;
+    justify-content: space-between;
+    gap : 40px;
+    background-color: #8dd9ea;
+    border-radius: 30px;
+    
+}
+
+.counter h2 {
+  text-align: center;
+  color: white;
+  background-color: #ffffff3d;
+  width: 50%;
+  margin: 20px auto ;
+  border-radius: 30px;
+}
+
+.counter span {
+    color: #4c8baf;
+    font-weight: bold;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    background-color: #8dd9ea;
+    border-radius: 30px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4c8baf; 
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin: 30px;
+    cursor: pointer;
+}
+
+.currency {
+  background-color: #8dd9ea;
+    border-radius: 30px;
+    text-align: center;
+    width : 500px;
+    margin: 20px auto;
+}
+
+body {
+  background-color: #b7ebf0b5;
+}

@@ -91,3 +91,5 @@ C[x]-[Construct Name]/
 **⤷ C3 – Products and Frameworks → M10 - Single Page Application framework – Angular Overview**
 
 -[📄 Week7_React_HandsOn.pdf](C3-Products%20and%20Frameworks/M10-React/Week7_React_HandsOn.pdf)
+
+---
