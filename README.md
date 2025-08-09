@@ -93,3 +93,11 @@ C[x]-[Construct Name]/
 -[📄 Week7_React_HandsOn.pdf](C3-Products%20and%20Frameworks/M10-React/Week7_React_HandsOn.pdf)
 
 ---
+
+### ꩜ Week 8 Assignments
+
+**⤷ C4 - Platforms and GenAI → M11 - Version Control - Git**
+
+-[📄 Week8_Git_HandsOn.pdf](C4-Platforms%20&%20GenAI/Week8_Git_HandsOn.pdf)
+
+---the end---
